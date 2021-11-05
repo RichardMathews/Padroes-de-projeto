@@ -8,6 +8,11 @@ Fornecer um ponto de acesso global para a mesma - isso deixa o singleton muito p
 
 Apesar de ser um dos padrões mais usados na atualidade, requer conhecimento e cuidado ao utilizá-lo. Um programador pode facilmente criar um Singleton que gera problemas de concorrência em um programa.
 
+## Aplicabilidade
+
+**Use o Singleton quando:**
+- Use o singleton quando uma classe precisa ter somente uma instância disponível em todo o seu programa;
+- Use o singleton quando perceber que está usando variáveis globais para manter partes importantes do programa, como variáveis de configuração que são usadas por toda a aplicação.
 ## Consequências
 
 **Bom:**
