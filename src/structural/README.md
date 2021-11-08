@@ -6,7 +6,7 @@ Observação:  **partes**  são objetos que formam a estrutura (as partes da est
 
 ## Aplicabilidade
 
-Use o padrão Composite quando:
+**Use o padrão Composite quando:**
 
 -   sua estrutura de objetos possa ser representada hierarquicamente, como por exemplo, estruturas do tipo árvore
 -   você quiser que o código cliente trate objetos compostos e objetos simples da mesma maneira
